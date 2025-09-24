@@ -1,20 +1,19 @@
-## ScopeMate
+## Estimator App
 
-ScopeMate is a full-stack project management web application built with React (Vite) for the frontend and Node.js/Express for the backend. It allows users to create, manage, and track tasks efficiently, with features like drag-and-drop task management, real-time updates, and project scope estimation.
+Estimator App is a full-stack web application built with React (Vite) for the frontend and Node.js/Express for the backend. It allows users to calculate estimated prices for the web app features they want, providing a clear overview of total cost, timeline, and feature requirements. The app focuses on user-friendly interactions and responsive design for all devices.
 
 ## Features
 
-Add, edit, and delete tasks dynamically
+Input desired web app features to calculate estimated cost
 
-Drag-and-drop tasks between columns (To Do, In Progress, Done)
-
-Scope estimation with total features, timeline, and cost
+View a detailed breakdown of timeline and pricing
 
 User authentication and secure login
 
-Responsive and modern UI
+Responsive, modern UI for desktop and mobile
 
-Tech Stack
+Clean, component-based architecture for scalability.
+
 
 ## Frontend:
 
